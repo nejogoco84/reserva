@@ -1,0 +1,6 @@
+                   Factura de venta:
+Nombre del cliente : cloiente de cien
+Empresa Cine :Cine Colombia
+Valor Boletas :20000
+Valor reserva :2000.0
+Valor total :22000.0
